@@ -17,11 +17,11 @@
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
 
-const char* WIFI_SSID      = "learn";
-const char* WIFI_PASSWORD  = "98122360";
+const char* WIFI_SSID      = "";
+const char* WIFI_PASSWORD  = "";
 
 // Provide your OpenAI API Key
-const String OPENAI_API_KEY = "sk-QtTjV51A9Q5BryyapBg6Y3i3Pji8ZibitdGnxukBSAZCR85h";
+const String OPENAI_API_KEY = "";
 // If you have a custom base URL or use the default, set it here.
 // Example: "https://api.openai.com"
 const String OPENAI_BASE_URL = "api.aigc369.com";  
